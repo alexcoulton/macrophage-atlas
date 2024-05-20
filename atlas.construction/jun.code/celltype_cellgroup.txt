@@ -1,0 +1,367 @@
+celltype	cellgroup	cellgroup2
+Alveolar	Alveolar	misc
+Alveolar Mac	Alveolar	misc
+cM08 (AS-DC)	DC_AS	DC
+B cell	B	B
+B cell_NA	B	B
+B cells memory	B	B
+B cells naive	B	B
+B.cell	B	B
+B.Cell	B	B
+B:	B	B
+B_cell	B	B
+B_cells_1	B	B
+B_cells_2	B	B
+cB1 (B IGD+IgM+)	B	B
+cB2 (B GC-like)	B	B
+cB3 (B CD40+ GC-like)	B	B
+Follicular B cells	B	B
+GC B cells in the DZ	B	B
+GC B cells in the LZ	B	B
+GrB-secreting B cells	B	B
+MALT B cells	B	B
+CAF	CAF	Fibro
+CAFs	CAF	Fibro
+cS27 (CXCL14+ CAF)	CAF	Fibro
+cS28 (GREM1+ CAF)	CAF	Fibro
+cS29 (MMP3+ CAF)	CAF	Fibro
+cS30 (CAF CCL8 Fibro-like)	CAF	Fibro
+cS31 (CAF stem niche Fibro-like)	CAF	Fibro
+CD4 T cell.1	T_CD4	T
+CD4 T cell.2	T_CD4	T
+CD4 T cell.3	T_CD4	T
+CD4.T.Cell	T_CD4	T
+CD4_T_cells	T_CD4	T
+CD4+ Activated IEG	T_CD4	T
+CD4+ Effector	T_CD4	T
+CD4+ Naive	T_CD4	T
+CD4+ Proliferating	T_CD4	T
+CD4+ Th	T_CD4	T
+CD4+ Treg	T_CD4	T
+cTNI01 (CD4+ IL7R+)	T_CD4	T
+cTNI02 (CD4+ IL7R+SELL+)	T_CD4	T
+cTNI03 (CD4+ IL7R+HSP+)	T_CD4	T
+cTNI04 (CD4+ IL7R+CCL5+)	T_CD4	T
+cTNI05 (CD4+ IL17+)	T_CD4	T
+cTNI06 (CD4+ TFH)	T_CD4	T
+cTNI07 (CD4+ CXCL13+)	T_CD4	T
+Effector T-Helper	T_CD4	T
+Memory T-Helper	T_CD4	T
+MitoHigh T-Helper	T_CD4	T
+Naive CD4+ T	T_CD4	T
+T cells CD4 memory activated	T_CD4	T
+T cells CD4 memory resting	T_CD4	T
+T cells CD4 naive	T_CD4	T
+T.CD4	T_CD4	T
+T:CD4+CM	T_CD4	T
+T:CD4+EM	T_CD4	T
+T:CD4+NAIVE	T_CD4	T
+41BB-Hi CD8+ T cell	T_CD8	T
+41BB-Lo CD8+ T cell	T_CD8	T
+CD8 T cell.1	T_CD8	T
+CD8 T cell.10	T_CD8	T
+CD8 T cell.2	T_CD8	T
+CD8 T cell.3	T_CD8	T
+CD8 T cell.4	T_CD8	T
+CD8 T cell.5	T_CD8	T
+CD8 T cell.6	T_CD8	T
+CD8 T cell.7	T_CD8	T
+CD8 T cell.8	T_CD8	T
+CD8 T cell.9	T_CD8	T
+CD8.T.Cell	T_CD8	T
+CD8_act	T_CD8	T
+CD8_act_T_cells	T_CD8	T
+CD8_eff	T_CD8	T
+CD8_ex	T_CD8	T
+CD8_ex_act	T_CD8	T
+CD8_ex_T_cells	T_CD8	T
+CD8_mem	T_CD8	T
+CD8_mem_T_cells	T_CD8	T
+CD8_naive	T_CD8	T
+CD8A+ Exhausted	T_CD8	T
+CD8A+ Exhausted IEG	T_CD8	T
+CD8A+ NK-like	T_CD8	T
+CD8A+ Proliferating	T_CD8	T
+CD8A+ Tissue-resident	T_CD8	T
+cTNI10 (CD8+ IL7R+)	T_CD8	T
+cTNI11 (CD8+GZMK+)	T_CD8	T
+cTNI12 (CD8+ IL7R+)	T_CD8	T
+cTNI13 (CD8+ T IL17+)	T_CD8	T
+cTNI14 (CD8+ CXCL13+)	T_CD8	T
+cTNI15 (CD8+ CXCL13+ HSP+)	T_CD8	T
+cTNI16 (CD8+ CXCL13+ prolif)	T_CD8	T
+Cycling CD8+ T cell	T_CD8	T
+Cytotoxic CD8+ T	T_CD8	T
+Exhausted CD8+ T	T_CD8	T
+MitoHigh CD8+ T cell	T_CD8	T
+MX1-Hi CD8+ T cell	T_CD8	T
+Naive CD8+ T	T_CD8	T
+Proliferating CD8 T cell	T_CD8	T
+T cells CD8	T_CD8	T
+T.CD8	T_CD8	T
+T:CD8+CM	T_CD8	T
+T:CD8+EM	T_CD8	T
+T:CD8+NAIVE	T_CD8	T
+Myeloid_cDC	cDC	DC
+cDC1	cDC1	DC
+M02_cDC1_CLEC9A	cDC1	DC
+M03_cDC1_CLEC9A	cDC1	DC
+cDC2	cDC2	DC
+M03_cDC2_CD1C	cDC2	DC
+M04_cDC2_CD1C	cDC2	DC
+M04_cDC3_LAMP3	cDC3	DC
+M05_cDC3_LAMP3	cDC3	DC
+Activated DCs	DC	DC
+CD141+ DCs	DC	DC
+CD163+CD14+ DCs	DC	DC
+CD1C+ DC	DC	DC
+CD1c+ DCs	DC	DC
+CLEC9A+ DC	DC	DC
+cM06 (DC IL22RA2)	DC	DC
+DC	DC	DC
+DCs	DC	DC
+Dendritic cells activated	DC	DC
+Dendritic cells resting	DC	DC
+cM03 (DC1)	cDC1	DC
+cM04 (DC2)	cDC2	DC
+cM05 (DC2 C1Q+)	cDC2	DC
+Lymphatic ECs	EC	misc
+cS01 (Endo arterial)	Endo	misc
+cS02 (Endo capillary)	Endo	misc
+cS03 (Endo capillary)	Endo	misc
+cS04 (Endo)	Endo	misc
+cS05 (Endo venous)	Endo	misc
+cS06 (Endo lymphatic)	Endo	misc
+cS07 (Endo capillary-like)	Endo	misc
+cS08 (Endo arterial-like)	Endo	misc
+cS09 (Endo)	Endo	misc
+cS10 (Endo tip cells)	Endo	misc
+cS11 (Endo proif)	Endo	misc
+cS12 (Endo)	Endo	misc
+cS13 (Endo venous-like)	Endo	misc
+cS14 (Endo)	Endo	misc
+EC	Endo	misc
+Endo.	Endo	misc
+Endothelial	Endo	misc
+Stalk-like ECs	Endo	misc
+Tip-like ECs	Endo	misc
+Eosinophils	Eosino	Granulo
+CD45- PAX8+ renal epithelium	Epi	misc
+CD45- Vascular Endothelium	Epi	misc
+Epithelial	Epi	misc
+Erythroblast	Erythroblast	Erythro
+cS21 (Fibro stem cell niche)	Fibro	Fibro
+cS22 (Fibro stem cell niche)	Fibro	Fibro
+cS23 (Fibro BMP-producing)	Fibro	Fibro
+cS24 (Fibro BMP-producing)	Fibro	Fibro
+cS25 (Fibro CCL8+)	Fibro	Fibro
+Fibroblast	Fibro	Fibro
+cM10 (Granulocyte)	Granulo	Granulo
+CD45	Leukocyte	Leuko
+cM02 (Macrophage-like)	Macro	Macro
+CXCL10-Hi TAM	Macro	Macro
+Cycling TAM	Macro	Macro
+FOLR2-Hi TAM	Macro	Macro
+GPNMB-Hi TAM	Macro	Macro
+LowLibSize Macrophage	Macro	Macro
+M06_Macro_ISG15	Macro	Macro
+M07_Macro_C1QC	Macro	Macro
+M08_Macro_FN1	Macro	Macro
+M08_Macro_NLRP3	Macro	Macro
+M08_Macro_SPP1	Macro	Macro
+M09_Macro_C1QC	Macro	Macro
+M09_Macro_IL1B	Macro	Macro
+M09_Macro_INHBA	Macro	Macro
+M09_Macro_ISG15	Macro	Macro
+M09_Macro_SPP1	Macro	Macro
+M10_Macro_C1QC	Macro	Macro
+M10_Macro_GPNMB	Macro	Macro
+M10_Macro_SPP1	Macro	Macro
+M11_Macro_C1QC	Macro	Macro
+M11_Macro_ISG15	Macro	Macro
+M11_Macro_LYVE1	Macro	Macro
+M12_Macro_LYVE1	Macro	Macro
+M13_Macro_INHBA	Macro	Macro
+Macrophage	Macro	Macro
+MACROPHAGE:	Macro	Macro
+Macrophages	Macro	Macro
+Macrophages M0	Macro	Macro
+Macrophages M1	Macro	Macro
+Macrophages M2	Macro	Macro
+Pleural Mac	Macro	Macro
+TAM HLAhi	Macro	Macro
+TAM HLAint	Macro	Macro
+TAM ISGhi	Macro	Macro
+TAM ISGint	Macro	Macro
+VSIR-Hi TAM	Macro	Macro
+cMA01 (Mast)	Mast	Mast
+M01_Mast_KIT	Mast	Mast
+Mast	Mast	Mast
+MAST	Mast	Mast
+Mast cell	Mast	Mast
+Mast cells activated	Mast	Mast
+Mast cells resting	Mast	Mast
+MAST:	Mast	Mast
+Mast_cell	Mast	Mast
+Mast_NA	Mast	Mast
+mDC:	DC_mDC	DC
+Megakaryocyte	Megakaryocyte	misc
+Melanocytes	Melanocytes	misc
+Mesothelial cells	Meso	misc
+Microglia/Mac	MicrogliaMac	Myeloid
+-1	misc	misc
+?	misc	misc
+Ambiguous	misc	misc
+Ambiguous/Dead	misc	misc
+AT1	misc	misc
+AT2	misc	misc
+CD207+CD1a+ LCs	misc	misc
+CD45- ccRCC CA9+	misc	misc
+cE01 (Stem/TA-like)	misc	misc
+cE02 (Stem/TA-like/Immature Goblet)	misc	misc
+cE03 (Stem/TA-like prolif)	misc	misc
+cE04 (Enterocyte 1)	misc	misc
+cE05 (Enterocyte 2)	misc	misc
+cE06 (Immature Goblet)	misc	misc
+cE07 (Goblet/Enterocyte)	misc	misc
+cE08 (Goblet)	misc	misc
+cE09 (Best4)	misc	misc
+cE10 (Tuft)	misc	misc
+cE11 (Enteroendocrine)	misc	misc
+Ciliated	misc	misc
+Club	misc	misc
+COL13A1+ matrix FBs	misc	misc
+COL14A1+ matrix FBs	misc	misc
+cTNI22 (cTNI22)	misc	misc
+cTNI26 (ILC3)	misc	misc
+Enteric_glia	misc	misc
+EPCs	misc	misc
+FB-like cells	misc	misc
+group	misc	misc
+live	misc	misc
+Live	misc	misc
+Misc/Undetermined	misc	misc
+NA	misc	misc
+TAM/TCR (Ambiguos)	misc	misc
+TP1	misc	misc
+TP2	misc	misc
+tS1	misc	misc
+tS2	misc	misc
+tS3	misc	misc
+Undetermined	misc	misc
+CD14+ Monocyte	Mono	Mono
+CD14+/CD16+ Monocyte	Mono	Mono
+CD16- Monocyte	Mono	Mono
+CD16+ Monocyte	Mono	Mono
+cM01 (Monocyte)	Mono	Mono
+M04_Mono_CD14	Mono	Mono
+M05_Mono_CD14	Mono	Mono
+M05_Mono_CD16	Mono	Mono
+M06_Mono_CD14	Mono	Mono
+M06_Mono_CD14CD16	Mono	Mono
+M07_Mono_CD16	Mono	Mono
+Monocyte	Mono	Mono
+MONOCYTE:	Mono	Mono
+MONOCYTE:precursor	Mono	Mono
+Monocytes	Mono	Mono
+mo-Mac	MonoMac	Myeloid
+Myeloid_Mo/M<U+03C6>	MonoMac	Myeloid
+cM09 (mregDC)	DC_mreg	DC
+MitoHigh Myeloid	Myeloid	Myeloid
+Myeloid	Myeloid	Myeloid
+Myeloid.1	Myeloid	Myeloid
+Myeloid.2	Myeloid	Myeloid
+Myeloid.3	Myeloid	Myeloid
+Myeloid.4	Myeloid	Myeloid
+Myeloid.5	Myeloid	Myeloid
+Myeloid.6	Myeloid	Myeloid
+Myeloid.7	Myeloid	Myeloid
+Myeloid_PMN	Myeloid	Myeloid
+Proliferating myeloid cell	Myeloid	Myeloid
+CD45- Myofibroblast	Myofibro	Fibro
+cS26 (Myofibro)	Myofibro	Fibro
+Myofibroblasts	Myofibro	Fibro
+NEUTROPHIL:	Neutrophil	Granulo
+Neutrophils	Neutrophil	Granulo
+Conventional NK	NK	NK
+cTNI23 (NK CD16A+)	NK	NK
+cTNI24 (NK GZMK+)	NK	NK
+cTNI25 (NK XCL1+)	NK	NK
+FGFBP2- NK	NK	NK
+FGFBP2+ NK	NK	NK
+MitoHigh NK	NK	NK
+NK	NK	NK
+NK cell.1	NK	NK
+NK cell.2	NK	NK
+NK cell.3	NK	NK
+NK cells activated	NK	NK
+NK cells resting	NK	NK
+NK HSP+	NK	NK
+NK.Cell	NK	NK
+NK:CD56+16+3-	NK	NK
+NK:CD56+16+3+NKT	NK	NK
+NK:CD56-16+3-	NK	NK
+NK_cells	NK	NK
+NK_NA	NK	NK
+Proliferating NK cell	NK	NK
+NKT	NKT	NK
+cM07 (pDC)	DC_pDC	DC
+M01_pDC_LILRA4	DC_pDC	DC
+M02_pDC_LILRA4	DC_pDC	DC
+Myeloid_pDC	DC_pDC	DC
+pDC	DC_pDC	DC
+pDC:	DC_pDC	DC
+pDCs	DC_pDC	DC
+cS15 (Pericyte)	Pericyte	misc
+cS16 (Pericyte)	Pericyte	misc
+cS17 (Pericyte)	Pericyte	misc
+cS18 (Pericyte)	Pericyte	misc
+cS19 (Pericyte)	Pericyte	misc
+cS20 (Pericyte prolif)	Pericyte	misc
+Pericytes	Pericyte	misc
+cP1 (Plasma IgA)	Plasma	Plasma
+cP2 (Plasma IgG)	Plasma	Plasma
+cP3 (Plasma IgG prolif)	Plasma	Plasma
+Plasma cell	Plasma	Plasma
+Plasma cell_NA	Plasma	Plasma
+Plasma cells	Plasma	Plasma
+Plasma_cells	Plasma	Plasma
+cS33 (Schwann)	Schwann	misc
+cS32 (Smooth Muscle)	Smooth Muscle	misc
+Smooth muscle cells	Smooth Muscle	misc
+CD3	T	T
+CD3 & CD45	T	T
+CD3 & CD45 (+ partly live cells)	T	T
+CD3&CD45	T	T
+CD8 low T	T	T
+CD8+/CD4+ Mixed Th	T	T
+cTNI17 (gd-like T)	T	T
+cTNI18 (gd-like T PDCD1+)	T	T
+cTNI19 (gd-like T prolif)	T	T
+cTNI20 (PLZF+ T)	T	T
+cTNI21 (PLZF+ T prolif)	T	T
+DP T cell	T	T
+Exhausted Tfh	T	T
+Naive	T	T
+T cell	T	T
+T cells follicular helper	T	T
+T cells_NA	T	T
+T.cell	T	T
+T_cell	T	T
+Tcell_prolif	T	T
+Tfh	T	T
+Th17	T	T
+cTNI08 (CD4+ Treg)	Treg	T
+cTNI09 (CD4+ Treg prolif)	Treg	T
+T cells regulatory (Tregs)	Treg	T
+T:Reg	Treg	T
+Treg	Treg	T
+T-Reg	Treg	T
+Tregs	Treg	T
+Cancer	Tumor	misc
+Cycling Tumor	Tumor	misc
+Mal	Tumor	misc
+Malignant cells	Tumor	misc
+Tumor ECs	Tumor	misc
+Tumor_1	Tumor	misc
+Tumor_2	Tumor	misc
